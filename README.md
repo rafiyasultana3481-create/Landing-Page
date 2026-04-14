@@ -1,4 +1,4 @@
-# 🚗 Techno Tune Motors - Landing Page
+# 🚗 Landing Page
 
 A modern, responsive landing page built using **React + Vite**, converted from a Thymeleaf-based project into a fully component-based frontend application.
 
