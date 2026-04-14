@@ -1,16 +1,106 @@
-# React + Vite
+# 🚗 Techno Tune Motors - Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive landing page built using **React + Vite**, converted from a Thymeleaf-based project into a fully component-based frontend application.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* ⚡ Fast performance using Vite
+* 🎨 Clean and responsive UI with Bootstrap
+* 🧩 Component-based architecture
+* 🔄 Converted from Thymeleaf (server-side) to React (client-side)
+* 📱 Mobile-friendly design
+* 📌 Sections included:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+  * Navbar
+  * Hero
+  * About
+  * Services
+  * Testimonials
+  * Blog
+  * Contact Form
+  * Footer
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+* React.js
+* Vite
+* Bootstrap 5
+* JavaScript (ES6+)
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+ ├── components/
+ │     ├── Navbar.jsx
+ │     ├── Hero.jsx
+ │     ├── About.jsx
+ │     ├── Services.jsx
+ │     ├── Testimonials.jsx
+ │     ├── Blog.jsx
+ │     ├── Contact.jsx
+ │     ├── Footer.jsx
+ │
+ ├── App.jsx
+ ├── main.jsx
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository
+
+```
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+2. Navigate to project folder
+
+```
+cd your-repo-name
+```
+
+3. Install dependencies
+
+```
+npm install
+```
+
+4. Run the development server
+
+```
+npm run dev
+```
+
+---
+
+## 🌐 Future Enhancements
+
+* 🔐 Add authentication (Login/Register)
+* 🔗 Integrate with Spring Boot backend
+* 🎨 Upgrade UI using Material UI
+* ✨ Add animations and transitions
+
+---
+
+## 👨‍💻 Author
+
+**Rafiya Sultana**
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+## 🔧 Customization
+
+This landing page is fully customizable. The design, content, and sections can be easily modified based on different business requirements, making it adaptable for various domains and use cases.
+
